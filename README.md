@@ -7,3 +7,5 @@
 * PHPUnit9
 * javascript
 * MySQL8.0
+
+## ※最後まで読んでいただきありがとうございます。
